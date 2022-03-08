@@ -8,3 +8,7 @@ https://github.com/Germa69/mern-app-client
 ## Available Scripts
 
 ### `npm init -y`
+
+Libraries used in the project
+
+### `express mongoose body-parser cors nodemon dotenv`
