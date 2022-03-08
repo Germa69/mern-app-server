@@ -12,3 +12,7 @@ https://github.com/Germa69/mern-app-client
 Libraries used in the project
 
 ### `express mongoose body-parser cors nodemon dotenv`
+
+Deploy app
+
+### `HEROKU`
